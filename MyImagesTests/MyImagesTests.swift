@@ -2,7 +2,7 @@
 //  MyImagesTests.swift
 //  MyImagesTests
 //
-//  Created by Rashdan Natiq on 2017-12-01.
+//  Created by on 2017-12-01.
 //  Copyright © 2017 Sultan. All rights reserved.
 //
 
